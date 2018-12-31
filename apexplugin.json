@@ -25,7 +25,7 @@
         "internalName" : "CLOBREGION_OVDP",
         "type" : "region",
         "demo" : "https://apex.oracle.com/pls/apex/f?p=49139:30",
-        "previewImage" : "https://github.com/oliviervdp/Clobregion/blob/master/preview.gif"
+        "previewImage" : "https://raw.githubusercontent.com/oliviervdp/Clobregion/master/preview.gif"
       }
     }
   }
