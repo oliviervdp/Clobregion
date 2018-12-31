@@ -1,0 +1,32 @@
+{
+  "name" : "Clob Region",
+  "version" : "1.0",
+  "description" : "Refreshable region plugin that displays CLOB's from the database to a APEX page",
+  "keywords" : ["clob", "refreshable", "LOB", "CLOB"],
+  "homepage" : "https://github.com/oliviervdp/Clobregion",
+  "bugs" : {
+    "url" : "https://github.com/oliviervdp/Clobregion/issues",
+    "email" : "oliviervdp2@gmail.com"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Olivier Van de Perre",
+    "email" : "oliviervdp2@gmail.com"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/oliviervdp/Clobregion.git"
+  },
+ "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["5.0.0", "5.1.0", "18.1", "18.2"],
+      "plugin" : {
+        "internalName" : "CLOBREGION_OVDP",
+        "type" : "region",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=49139:30",
+        "previewImage" : "https://github.com/oliviervdp/Clobregion/blob/master/preview.gif"
+      }
+    }
+  }
+}
