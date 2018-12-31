@@ -1,5 +1,5 @@
 {
-  "name" : "Clob Region",
+  "name" : "ClobRegion",
   "version" : "1.0",
   "description" : "Refreshable region plugin that displays CLOB's from the database to a APEX page",
   "keywords" : ["clob", "refreshable", "LOB", "CLOB"],
